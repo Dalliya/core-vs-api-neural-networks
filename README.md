@@ -25,7 +25,7 @@ To analyze the results, I transformed the **Confusion Matrix** into a 3D surface
 
 | **Custom Core Implementation** | **Optimized API Pipeline** |
 | :---: | :---: |
-| [![Core](results/topologies/core_fashion_topology.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dalliya/core-vs-api-neural-networks/main/results/topologies/core_fashion_topology.html) | [![API](results/topologies/api_fashion_topology.png)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/Dalliya/core-vs-api-neural-networks/main/results/topologies/api_fashion_topology.html) |
+| [![Core](results/topologies/core_fashion_topology.png)](https://dalliya.github.io/core-vs-api-neural-networks/results/topologies/core_fashion_topology.html) | [![API](results/topologies/api_fashion_topology.png)](https://dalliya.github.io/core-vs-api-neural-networks/results/topologies/api_fashion_topology.html) |
 | *81.75% Accuracy. Note the broader "noise" in the valleys.* | *89.62% Accuracy. Note the sharper, more distinct peaks.* |
 
 ---
